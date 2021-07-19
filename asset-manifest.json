@@ -1,0 +1,20 @@
+{
+  "files": {
+    "main.css": "/myreactdnd/static/css/main.bf640465.chunk.css",
+    "main.js": "/myreactdnd/static/js/main.d1947316.chunk.js",
+    "main.js.map": "/myreactdnd/static/js/main.d1947316.chunk.js.map",
+    "runtime-main.js": "/myreactdnd/static/js/runtime-main.27cf72b8.js",
+    "runtime-main.js.map": "/myreactdnd/static/js/runtime-main.27cf72b8.js.map",
+    "static/js/2.bde8c58f.chunk.js": "/myreactdnd/static/js/2.bde8c58f.chunk.js",
+    "static/js/2.bde8c58f.chunk.js.map": "/myreactdnd/static/js/2.bde8c58f.chunk.js.map",
+    "index.html": "/myreactdnd/index.html",
+    "static/css/main.bf640465.chunk.css.map": "/myreactdnd/static/css/main.bf640465.chunk.css.map",
+    "static/js/2.bde8c58f.chunk.js.LICENSE.txt": "/myreactdnd/static/js/2.bde8c58f.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.27cf72b8.js",
+    "static/js/2.bde8c58f.chunk.js",
+    "static/css/main.bf640465.chunk.css",
+    "static/js/main.d1947316.chunk.js"
+  ]
+}
